@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="mpjdev">
+    <CLASSES>
+      <root url="jar://C:/mpj-v0_44/lib/mpjdev.jar!/" />
+      <root url="jar://C:/mpj-v0_44/lib/mpjbuf.jar!/" />
+      <root url="jar://C:/mpj-v0_44/lib/log4j-1.2.11.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
